@@ -1,4 +1,4 @@
-FROM ubuntu:disco
+FROM ubuntu:cosmic
 
 ENV DEBIAN_FRONTEND=noninteractive
 
