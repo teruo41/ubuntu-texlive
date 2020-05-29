@@ -1,6 +1,6 @@
 # Tags
 
-- `20.04-tl2020`, `latest`, TeXLive 2019 on Ubuntu 20.04 (focal), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/2004_tl2019/Dockerfile)
+- `20.04-tl2019`, `latest`, TeXLive 2019 on Ubuntu 20.04 (focal), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/2004_tl2019/Dockerfile)
 - `19.10-tl2019`, TeXLive 2019 on Ubuntu 19.10 (eoan), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1910_tl2019/Dockerfile)
 - `19.04-tl2018`, TeXLive 2018 on Ubuntu 19.04 (disco), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1904_tl2018/Dockerfile)
 - `18.10-tl2018`, TeXLive 2018 on Ubuntu 18.10 (cosmic), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1810_tl2018/Dockerfile)
