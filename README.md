@@ -1,9 +1,8 @@
 # Tags
 
+
+- `21.04-tl2020`, TeXLive 2020 on Ubuntu 20.10 (hirsute), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/2104_tl2020/Dockerfile)
 - `20.04-tl2019`, `latest`, TeXLive 2019 on Ubuntu 20.04 (focal), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/2004_tl2019/Dockerfile)
-- `19.10-tl2019`, TeXLive 2019 on Ubuntu 19.10 (eoan), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1910_tl2019/Dockerfile)
-- `19.04-tl2018`, TeXLive 2018 on Ubuntu 19.04 (disco), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1904_tl2018/Dockerfile)
-- `18.10-tl2018`, TeXLive 2018 on Ubuntu 18.10 (cosmic), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1810_tl2018/Dockerfile)
 - `18.04-tl2017`, TeXLive 2017 on Ubuntu 18.04 (bionic), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1804_tl2017/Dockerfile)
 - `16.04-tl2015`, TeXLive 2015 on Ubuntu 16.04 (xenial), [(Dockerfile)](https://github.com/teruo41/ubuntu-texlive/blob/1604_tl2015/Dockerfile)
 
